@@ -22,7 +22,6 @@
 ---
 
 ### 🕒 Última atualização automática
-⏰ Atualizado em: `{{DATE}}`
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FelyppeMatheus)
 
