@@ -5,6 +5,9 @@
 🚀 Em transição para a área de **Infraestrutura e Cibersegurança**  
 🏋️‍♂️ Apaixonado por **Musculação, Thrillers Psicológico e Mundo Hacker**  
 
+🕹️ Clique aqui para rodar meu "botão secreto":
+[![Run My Action](https://img.shields.io/badge/%F0%9F%9A%80-Rodar%20Script-blue?style=for-the-badge)](https://github.com/FelyppeVieira/FelyppeVieira/actions)
+
 ---
 
 ### 📊 GitHub Stats
